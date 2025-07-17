@@ -19,7 +19,7 @@
 > 🛑 *This is not just code. This is a movement.*
 
 ## ❤️ Support My Work
-Scan the QR code below or send crypto directly to:
+
 - BTC/ETH/BNB: `0x8082C324f09a5d52d3641152314db8a5D6E65966`
 - USDT TRC20: `TFtCXr64fVHwbtfsqX4d79fikv5XRrsffH`
 - Opay or GTBank? Ask me on Telegram.
